@@ -29,7 +29,7 @@
     "url": "git+https://github.com/adiwajshing/baileys.git"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "github:undefined-60/baileys-updated",
+    "undefined/baileys": "github:undefined-60/baileys-updated",
     "@adiwajshing/keyed-db": "^0.2.4",
     "qrcode-terminal": "^0.12.0",
     "@hapi/boom": "^9.1.4",
