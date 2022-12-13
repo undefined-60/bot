@@ -1,0 +1,155 @@
+{
+  "palavra": [],
+  "level": [
+    {
+      "id": "120363021666642593@g.us",
+      "data": [
+        {
+          "id": "15098613420@s.whatsapp.net",
+          "level": 1,
+          "message": 1,
+          "xp": 0,
+          "cash": 0,
+          "command": 1,
+          "time": "13/06 10:05:53",
+          "used": []
+        },
+        {
+          "id": "559984620740@s.whatsapp.net",
+          "level": 1,
+          "message": 399,
+          "xp": 0,
+          "cash": 0,
+          "command": 250,
+          "time": "18/06 19:42:07",
+          "used": []
+        }
+      ]
+    }
+  ],
+  "registro": [],
+  "simih": [
+    {
+      "id": "Bom dia",
+      "data": [
+        "Bom dia",
+        "Boa noite",
+        "Bom"
+      ]
+    },
+    {
+      "id": "Boa noite",
+      "data": [
+        "Bom dia",
+        "Si"
+      ]
+    },
+    {
+      "id": "Sexo",
+      "data": [
+        "Ouvi sexo?"
+      ]
+    },
+    {
+      "id": "Ouvi sexo?",
+      "data": [
+        "Sim kkk"
+      ]
+    },
+    {
+      "id": "Sim kkk",
+      "data": [
+        "Hehe"
+      ]
+    },
+    {
+      "id": "Nada ainda aff n chega no app de música q uso",
+      "data": [
+        "Tenta abrir pelo explorador de arquivos"
+      ]
+    },
+    {
+      "id": "CARAIO 161mb",
+      "data": [
+        "S"
+      ]
+    },
+    {
+      "id": "Pq Carvalhos isso n fica no meu app de música aff",
+      "data": [
+        "Porquê não é mp3"
+      ]
+    },
+    {
+      "id": "Foi pro WhatsApp áudio soq como vídeo n como música",
+      "data": [
+        "Isso",
+        "Tenta entrar no explorador de arquivos e entra na pasta do zap"
+      ]
+    },
+    {
+      "id": "Que top. Se que fez ?",
+      "data": [
+        "Quem dera irmão"
+      ]
+    },
+    {
+      "id": "Quem foi?",
+      "data": [
+        "Dowee_bee pesquisa lá no tiko teko que tu acha"
+      ]
+    },
+    {
+      "id": "Ja jogou Pedra?",
+      "data": [
+        "Não kkkkkkkkkkkkkk"
+      ]
+    },
+    {
+      "id": "Não kkkkkkkkkkkkkk",
+      "data": [
+        "Q decepção"
+      ]
+    },
+    {
+      "id": "Essa porra tem que morrer",
+      "data": [
+        "😩"
+      ]
+    },
+    {
+      "id": "E qm gosta do 2?",
+      "data": [
+        "Vc é uma lenda"
+      ]
+    },
+    {
+      "id": "Todos somos",
+      "data": [
+        "🤜🤛"
+      ]
+    },
+    {
+      "id": "Essa aí ele não é dívida em pedaços não",
+      "data": [
+        "Eu tenho a antiga tbm"
+      ]
+    },
+    {
+      "id": "Essa bagui é rgb do nome do bot?",
+      "data": [
+        "O colorido?"
+      ]
+    }
+  ],
+  "comandos": [
+    {
+      "id": "tag",
+      "count": 3
+    },
+    {
+      "id": "tictac",
+      "count": 3
+    }
+  ]
+}
